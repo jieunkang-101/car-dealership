@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "cars/1.0.0": {
+      "car/1.0.0": {
         "runtime": {
-          "cars.dll": {}
+          "car.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "cars/1.0.0": {
+    "car/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

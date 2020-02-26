@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/cars-dealership/cars.csproj",
-      "projectName": "cars",
-      "projectPath": "/Users/Guest/Desktop/cars-dealership/cars.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/car-dealership2/car.csproj",
+      "projectName": "car",
+      "projectPath": "/Users/Guest/Desktop/car-dealership2/car.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/cars-dealership/obj/",
+      "outputPath": "/Users/Guest/Desktop/car-dealership2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
