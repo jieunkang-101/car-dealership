@@ -45,8 +45,10 @@ namespace Dealership
       {
         if (automobile.WorthBuying(maxPrice, maxMiles))
         {
-          Console.WriteLine(automobile.MakeModel);
-          Console.WriteLine(automobile.Message);
+          Console.WriteLine(automobile.GetMakeModel()); 
+          Console.WriteLine(automobile.GetMessage()); 
+         //Console.WriteLine(automobile.MakeModel);
+         // Console.WriteLine(automobile.message);
         }
       }
     }
